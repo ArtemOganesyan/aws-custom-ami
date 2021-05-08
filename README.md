@@ -4,7 +4,7 @@
 * Prepared VirtualBox VM image in VHD format.
 * Installed and configured AWS CLI
 
-**Placeholders**
+**Placeholders:**
 
 | Placeholder         | Description           |
 | ------------------- |-----------------------| 
