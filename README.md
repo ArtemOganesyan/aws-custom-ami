@@ -6,6 +6,7 @@
 
 **Variables**
 | +++RoleName+++ | Name of a role to be used on AWS |
+| | |
 
 * +++BucketName+++
     * Name of your S3 bucket where necessary files will be placed
