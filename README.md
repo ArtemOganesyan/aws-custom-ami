@@ -6,8 +6,8 @@
 
 **Variables**
 * +++RoleName+++
-    Name of a role to be used on AWS
+    * Name of a role to be used on AWS
 * +++BucketName+++
-    Name of your S3 bucket where necessary files will be placed
+    * Name of your S3 bucket where necessary files will be placed
 * +++PathToVhdFile+++
-    Name (if file is in root directory of your bucket) or a path to VHD file (ex. folder/filename.vhd)
+    * Name (if file is in root directory of your bucket) or a path to VHD file (ex. folder/filename.vhd)
