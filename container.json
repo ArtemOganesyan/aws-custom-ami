@@ -1,0 +1,9 @@
+[{ 
+    "Description": "+++Description+++", 
+    "Format": "vhd", 
+    "UserBucket": 
+        { 
+            "S3Bucket": "+++BucketName+++", 
+            "S3Key": "+++PathToVhdFile+++" 
+        } 
+}]
